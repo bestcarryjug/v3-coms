@@ -1,0 +1,8 @@
+{
+  "name": "v3-coms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bestcarryjug/v3-coms.git",
+  "author": "zc <1119681567@qq.com>",
+  "license": "MIT"
+}
